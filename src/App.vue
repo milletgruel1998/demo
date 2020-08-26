@@ -29,7 +29,6 @@ export default {
     }
   },
   created () {
-    // console.log(this)
     this.params = { name: '小米粥' }
   }
 }
